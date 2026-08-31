@@ -35,17 +35,16 @@
 ### 🛸 Sobre Mim & Objetivos de Carreira
 
 - 🎓 **Formação:** Graduando em **Engenharia de Computação** pelo IFSULDEMINAS e Técnica em Informática pelo SENAC.
-- 🔬 **Pesquisa e P&D:** Atuo na validação de **Gêmeos Digitais (Digital Twins)** e sistemas IoT em tempo real (parceria UNICAMP/WissTech) e no desenvolvimento de soluções conectando sensores LoRaWAN e VANTs/Drones.
+- 🔬 **Pesquisa e P&D:** Atuo no desenvolvimento de soluções para **Visão Computacional, inspeção automatizada, Gêmeos Digitais (Digital Twins)** e conectividade para cenários industriais.
 - ⚡ **Liderança Técnica:** Diretora no Núcleo de Energia e Mobilidade Elétrica na Empresa Júnior Turing.
-- ✈️ **Foco de Carreira:** Desenvolvimento de software de baixo nível, firmware e sistemas de missão crítica voltados para a **Indústria Aeronáutica e Aviônica**.
-
+- ✈️ **Foco de Carreira: Aplicação de **Visão Computacional, Inteligência Artificial e Automação de Processos** para a Indústria e o Setor Aeronáutico.
 ---
 
 ### 🛠️ Áreas de Domínio Técnico
 
-- **Sistemas Embarcados & Firmware:** Linguagens C/C++, arquitetura de microcontroladores, prototipagem eletrônica e barramentos de comunicação.
-- **Conectividade & Telemetria:** Redes LoRaWAN, protocolos de comunicação sem fio, integração de sensores com aeronaves não tripuladas (Drones).
-- **Simulação & Sistemas Físicos:** Gêmeos Digitais (Digital Twins) para testes de validação em tempo real.
+- **Sistemas Embarcados & Firmware:** Linguagens C/C++, arquitetura de microcontroladores e prototipagem eletrônica.
+- **Conectividade & Telemetria:** Redes LoRaWAN, protocolos de comunicação sem fio, integração de sensores.
+- **Simulação & Sistemas Físicos:** Testes de validação tecnológica e monitoramento em tempo real de ativos físicos.
 - **Metodologias & Qualidade:** Engenharia de Requisitos, Git/GitHub, Docker e boas práticas em controle de versão e arquitetura.
 
 ---
