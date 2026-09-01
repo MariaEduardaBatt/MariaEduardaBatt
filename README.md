@@ -1,12 +1,12 @@
 # Maria Eduarda Batista Henrique
 
-**Engenharia de Computação** | IFSULDEMINAS • 7º Período
+**Engenharia de Computação** | IFSULDEMINAS • 8º Período
 
 *Entusiasta em Sistemas Embarcados, Visão Computacional & IoT Industrial*
 
 *Foco de Carreira no Setor Aeronáutico & Aeroespacial | Visão Computacional | Sistemas Embarcados*
 
-Estudante de Engenharia de Computação com experiência prática em design de placas de circuito (PCB), algoritmos de Inteligência Artificial, arquitetura de software e engenharia de sistemas. Atuação em ambientes de P&D e integração hardware-software. Desenvolvendo competências técnicas para migrar para a **Indústria Aeronáutica e Aeroespacial**.
+Estudante de Engenharia de Computação com experiência prática em design de placas de circuito (PCB), algoritmos de Inteligência Artificial, arquitetura de software e engenharia de sistemas. Atuação em ambientes de P&D e integração hardware-software.
 
 > 🔒 **Nota:** Projetos principais de P&D e aplicações proprietárias mantêm-se em repositórios privados por protocolos de confidencialidade e propriedade intelectual.
 
