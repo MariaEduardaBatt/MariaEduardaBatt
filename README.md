@@ -177,6 +177,7 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 ## 🏆 Conquistas & Liderança
 
 - **🚀 Diretora** — Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing · IFSULDEMINAS)
+- **🤖 Membro** — Equipe de Robótica ATON (IFSULDEMINAS), atuando em robôs de combate e competições
 - **👁️ P&D em Visão Computacional** — Robótica Industrial (EMBRAPI)
 - **💻 Bolsista de Tecnologia e Inovação** — Desenvolvimento Full Stack (CNPq)
 - **🥇 1º Lugar** — Hackathon IFSULDEMINAS
