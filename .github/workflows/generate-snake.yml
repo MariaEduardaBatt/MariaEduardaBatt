@@ -29,4 +29,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution snake"
+          commit_user_name: Maria Eduarda Batista Henrique
+          commit_user_email: 145713858+MariaEduardaBatt@users.noreply.github.com
+          commit_author: Maria Eduarda Batista Henrique <145713858+MariaEduardaBatt@users.noreply.github.com>
           file_pattern: "assets/* snake-updated.txt"
