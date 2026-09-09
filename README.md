@@ -185,7 +185,7 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariaEduardaBatt/MariaEduardaBatt/output/github-snake-dark.svg" alt="Cobrinha de contribuições no GitHub" />
+  <img src="https://raw.githubusercontent.com/MariaEduardaBatt/MariaEduardaBatt/main/assets/github-snake-dark.svg" alt="Cobrinha de contribuições no GitHub" />
 </p>
 
 <div align="center">
