@@ -1,140 +1,134 @@
-# Maria Eduarda Batista Henrique
-
-**Engenharia de Computação** | IFSULDEMINAS • 8º Período
-
-*Entusiasta em Sistemas Embarcados, Visão Computacional & IoT Industrial*
-
-*Foco de Carreira no Setor Aeronáutico & Aeroespacial | Visão Computacional | Sistemas Embarcados*
-
-Estudante de Engenharia de Computação com experiência prática em design de placas de circuito (PCB), algoritmos de Inteligência Artificial, arquitetura de software e engenharia de sistemas. Atuação em ambientes de P&D e integração hardware-software.
-
-> 🔒 **Nota:** Projetos principais de P&D e aplicações proprietárias mantêm-se em repositórios privados por protocolos de confidencialidade e propriedade intelectual.
-
-## 🤝 Conecte-se Comigo
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-batista-66702a337/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:mariaeduardabatt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+
+# 👋 Maria Eduarda Batista Henrique
+
+**💻 Estudante de Engenharia de Computação · 🤖 Sistemas Embarcados, Firmware (C/C++) e IoT · 👁️ Visão Computacional · LoRaWAN · 🚀 Diretora na EJ Turing**
+
+*IFSULDEMINAS — Campus Poços de Caldas · Técnica em Informática (SENAC)*
+
 </div>
 
-## 🚀 Projetos em Destaque
+<div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- LINHA 1: Visao Computacional (Privado) & Varinha MAGICA -->
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; padding: 20px; height: 260px;">
-        <h3 align="center" style="margin-top: 0;">👁️ Visão Computacional & Navegação Robótica</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/REPOSIT%C3%93RIO_PRIVADO-555555?style=for-the-badge&logo=github&logoColor=white" alt="Privado">
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> Python / OpenCV / Hough Circles / Comunicação Hardware</li>
-          <li>Mapeamento visual e detecção de padrões geométricos para navegação de robô de limpeza</li>
-          <li>Cálculo de coordenadas espaciais e envio de rotas de atuação direta para o hardware embarcado</li>
-          <li>Processamento digital de imagens em tempo real para automação de tarefas robóticas</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; padding: 20px; height: 260px;">
-        <h3 align="center" style="margin-top: 0;">🪄 Hardware Embarcado Interativo (VarinhaMAGICA)</h3>
-        <div align="center">
-          <a href="https://github.com/MariaEduardaBatt/VarinhaMAGICA" target="_blank">
-            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-          </a>
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> Design de PCB / Microcontroladores / C++ / Sistemas Embarcados</li>
-          <li>Projeto completo de Placa de Circuito Impresso (PCB) customizada e montagem</li>
-          <li>Desenvolvimento de firmware de baixo nível para processamento de gestos em tempo real</li>
-          <li>Integração hardware-software com gerenciamento otimizado de energia</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <!-- LINHA 2: IA Damas & ResolveTi -->
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; padding: 20px; height: 260px;">
-        <h3 align="center" style="margin-top: 0;">🏁 Motor de IA para Jogo de Damas</h3>
-        <div align="center">
-          <a href="https://github.com/MariaEduardaBatt/IA-jogo-de-Damas" target="_blank">
-            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-          </a>
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> Python / Busca Adversarial / Algoritmo Minimax</li>
-          <li>Implementação de algoritmos de árvore de decisão para avaliação ótima de estados</li>
-          <li>Funções heurísticas projetadas para interações complexas de tabuleiro</li>
-          <li>Mapeamento eficiente de memória e otimização de árvore de estados</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; padding: 20px; height: 260px;">
-        <h3 align="center" style="margin-top: 0;">📱 Gestão de Chamados (ResolveTi)</h3>
-        <div align="center">
-          <a href="https://github.com/MariaEduardaBatt/ResolveTi" target="_blank">
-            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-          </a>
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> Python / Arquitetura Web / Integração com Banco de Dados</li>
-          <li>Sistema de chamados de suporte técnico para automação de fluxos operacionais</li>
-          <li>Controle de acesso baseado em perfis, rastreamento de ciclo de vida e persistência</li>
-          <li>Estrutura de código limpo focada em manutenibilidade e design modular</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaeduarda-batista/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaEduardaBatt)
+[![Portfólio](https://img.shields.io/badge/Portfólio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=white)](https://mariaeduardabatt.github.io)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeduardabatt@gmail.com)
+
+</div>
+
+---
+
+## 📌 Sobre mim
+
+Estudante do **8º período de Engenharia de Computação** no IFSULDEMINAS e **Técnica em Informática** (SENAC), com atuação em **P&D** aplicada a sistemas embarcados, visão computacional e IoT.
+
+Busco **estágio em Engenharia de Computação** focado em **Sistemas Embarcados, Firmware, Aviônica, Visão Computacional, Telemetria e Sistemas Integrados** — com interesse no setor aeronáutico e aeroespacial.
+
+> 🔒 Detalhes e código de projetos proprietários de P&D em andamento não são divulgados publicamente.
+
+## 🎯 Áreas de interesse
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sistemas_Embarcados-0b1322?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firmware-0b1322?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visão_Computacional-0b1322?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-0b1322?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRaWAN-0b1322?style=flat-square" />
+  <img src="https://img.shields.io/badge/Robótica_Industrial-0b1322?style=flat-square" />
+</p>
+
+## 🚀 Projetos em destaque
+
+### 🪄 VarinhaMAGICA — *Periférico HID interativo*
+> Dispositivo de interface humana por **gestos**: página web + firmware Arduino (ESP8266 e MPU6050), placa projetada no Proteus, soldagem SMD/THD, modelagem 3D (CAD) e envio de comandos de movimento ao computador.
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+🔗 [Ver no GitHub](https://github.com/MariaEduardaBatt/VarinhaMAGICA)
+
+### 🏁 IA para Jogo de Damas
+> Motor de inteligência artificial para o jogo de Damas com algoritmos de **busca adversarial (Minimax)** e heurísticas de avaliação de estados.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+🔗 [Ver no GitHub](https://github.com/MariaEduardaBatt/IA-jogo-de-Damas)
+
+### 📱 ResolveTi — *Gestão de Chamados*
+> Sistema para registro e atendimento de chamados de suporte, com fluxo organizado e persistência de dados.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+🔗 [Ver no GitHub](https://github.com/MariaEduardaBatt/ResolveTi)
+
+### 🎬 Webflix — *Catálogo de Filmes*
+> Site de filmes com login, cadastro, páginas de filmes, trailers e trilhas sonoras — tudo em HTML, CSS e JavaScript puro.
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [Ver no GitHub](https://github.com/MariaEduardaBatt/webflix)
+
+### 🔬 Visão Computacional — *Robô de Limpeza de Evaporadores* (P&D · EMBRAPI)
+> Sistema de percepção de robô industrial para limpeza de evaporadores, com pipelines de visão computacional (**Python/OpenCV**) e câmeras embarcadas (**ESP32-CAM**).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+*⚠️ Em andamento · código proprietário.*
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Principais Linguagens
+**Linguagens**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### Ferramentas & Frameworks
+**Frameworks, ferramentas & hardware**
+
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32%2FESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRa%2FLoRaWAN-0b1322?style=for-the-badge" />
+</p>
+
+**Soft skills & idiomas**
+
+<p align="center">
+  Liderança de equipes · Comunicação · Proatividade · Resiliência · Resolução rápida de problemas · Inglês intermediário
 </p>
 
 ---
 
 ## 🏆 Conquistas & Liderança
 
-- **👑 Diretora** - Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing)
-- **🔬 Assistente de P&D** - Pesquisa em IoT, Gêmeos Digitais e Sistemas Embarcados
-- **🥇 1º Lugar** - Hackathon IFSULDEMINAS
-- **📜 Coautora Científica** - Pesquisa publicada em congresso científico (Anais UNIFAE)
+- 🚀 **Diretora** — Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing · IFSULDEMINAS)
+- 🔬 **P&D** — Visão Computacional para robótica industrial (EMBRAPI)
+- 💻 **Bolsista de tecnologia e inovação (CNPq)** — desenvolvimento full stack
+- 🥇 **1º Lugar** — Hackathon IFSULDEMINAS
+- 📜 **Coautora Científica** — *"Integração de sensores LoRaWAN com drones para mapeamento rápido em cafezais"* (Anais da UNIFAE, 2025)
 
 ---
 
 <div align="center">
-  
-"Testing leads to failure, and failure leads to understanding." — Burt Rutan
 
-![Snake Animation](https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg)
+> *"Testing leads to failure, and failure leads to understanding."* — Burt Rutan
+
+**Feito com 💙 por Maria Eduarda Batista Henrique**
 
 </div>
