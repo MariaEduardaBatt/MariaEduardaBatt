@@ -168,6 +168,8 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32%2FESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-0b1322?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LoRa%2FLoRaWAN-0b1322?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inglês%20Intermediário-555555?style=for-the-badge" />
 </p>
