@@ -24,9 +24,9 @@ jobs:
             assets/github-snake-dark.svg?palette=github-dark
 
       - name: Write last-update marker
-        run: date -u +"Atualizado em %Y-%m-%d %H:%M UTC" > assets/snake-updated.txt
+        run: date -u +"Atualizado em %Y-%m-%d %H:%M UTC" > snake-updated.txt
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution snake"
-          file_pattern: assets/*
+          file_pattern: "assets/* snake-updated.txt"
