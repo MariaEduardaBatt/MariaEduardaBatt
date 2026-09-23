@@ -182,7 +182,8 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 - **🤖 Membro** — Equipe de Robótica ATON (IFSULDEMINAS), atuando em robôs de combate e competições
 - **👁️ P&D em Visão Computacional** — Robótica Industrial (EMBRAPI)
 - **💻 Bolsista de Tecnologia e Inovação** — Desenvolvimento Full Stack (CNPq)
-- **🥇 1º Lugar** — Hackathon IFSULDEMINAS
+- **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2026 · Tema: Gestão Pública — solução tecnológica para o CEASA de Poços de Caldas
+- **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2025 · Solução com criptografia/Blockchain aplicada ao agronegócio
 - **📜 Coautora Científica** — "Integração de Sensores LoRaWAN com Drones para Mapeamento Rápido em Cafezais" (Anais da UNIFAE, 2025)
 
 ---
