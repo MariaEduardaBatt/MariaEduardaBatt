@@ -187,6 +187,23 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MariaEduardaBatt&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaEduardaBatt&layout=compact&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=MariaEduardaBatt&bg_color=00000000&color=22d3ee&line=22d3ee&point=c9d1d9&area=true&hide_border=true" alt="Gráfico de contribuições" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MariaEduardaBatt/MariaEduardaBatt/main/assets/github-snake-dark.svg" alt="Cobrinha de contribuições no GitHub" />
 </p>
