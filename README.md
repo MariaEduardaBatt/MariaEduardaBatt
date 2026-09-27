@@ -4,7 +4,6 @@
 
 *Entusiasta em Sistemas Embarcados, Firmware & Visão Computacional*
 
-*Foco de Carreira no Setor Aeronáutico & Aeroespacial | Aviônica | Telemetria | IoT*
 
 Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atuação em P&D aplicada a sistemas embarcados, visão computacional e IoT. Experiência em design de placas (PCB), firmware, liderança técnica de equipes e desenvolvimento Full Stack.
 
