@@ -184,16 +184,7 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 - **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2026 · Tema: Gestão Pública — solução tecnológica para o CEASA de Poços de Caldas
 - **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2025 · Solução com criptografia/Blockchain aplicada ao agronegócio
 - **📜 Coautora Científica** — "Integração de Sensores LoRaWAN com Drones para Mapeamento Rápido em Cafezais" (Anais da UNIFAE, 2025)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MariaEduardaBatt&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MariaEduardaBatt&layout=compact&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ## 📈 Contribution Graph
