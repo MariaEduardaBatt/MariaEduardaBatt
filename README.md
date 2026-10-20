@@ -26,7 +26,7 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
   </a>
 </div>
 
-## 🚀 Projetos em Destaque
+## 💻 Projetos em Destaque
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <!-- LINHA 1: Visão Computacional (P&D) & VarinhaMAGICA -->
@@ -177,7 +177,7 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 
 ## 🏆 Conquistas & Liderança
 
-- **🚀 Diretora** — Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing · IFSULDEMINAS)
+- **⚡ Diretora** — Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing · IFSULDEMINAS)
 - **🤖 Membro** — Equipe de Robótica ATON (IFSULDEMINAS), atuando em robôs de combate e competições
 - **👁️ P&D em Visão Computacional** — Robótica Industrial (EMBRAPI)
 - **💻 Bolsista de Tecnologia e Inovação** — Desenvolvimento Full Stack (CNPq)
@@ -201,6 +201,6 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 
 <div align="center">
   
-"Testing leads to failure, and failure leads to understanding." — Burt Rutan
+"Talk is cheap. Show me the code." — Linus Torvalds
 
 </div>
