@@ -2,10 +2,15 @@
 
 **Engenharia de Computação** | IFSULDEMINAS • 8º Período · Técnica em Informática (SENAC)
 
-*Entusiasta em Sistemas Embarcados, Firmware & Visão Computacional*
+*Inteligência Artificial · Machine Learning · Visão Computacional · Sistemas Embarcados*
 
+Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) construindo soluções de **IA aplicada**: pipelines de **Machine Learning**, **visão computacional** em robótica industrial e sistemas inteligentes que vão do sensor ao modelo. Também tenho experiência em firmware, PCB, desenvolvimento Full Stack e liderança — hoje sou **presidente da Empresa Júnior Turing**.
 
-Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atuação em P&D aplicada a sistemas embarcados, visão computacional e IoT. Experiência em design de placas (PCB), firmware, liderança técnica de equipes e desenvolvimento Full Stack.
+### 🔭 Agora
+
+- 👁️ Desenvolvendo o **sistema de visão computacional** de um robô industrial (Python + OpenCV) — P&D com a IVIC Robotics / EMBRAPII
+- 🧠 Construindo um portfólio de **Machine Learning** com projetos públicos no GitHub e no [Kaggle](https://www.kaggle.com/code/mariaeduardabatt/heart-disease)
+- 🚀 Presidente da **Empresa Júnior Turing** (IFSULDEMINAS)
 
 > 🔒 **Nota:** Código e detalhes proprietários de projetos de P&D em andamento não são divulgados publicamente.
 
@@ -21,6 +26,9 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
   <a href="https://mariaeduardabatt.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/mariaeduardabatt" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
   <a href="mailto:mariaeduardabatt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -29,8 +37,28 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 ## 💻 Projetos em Destaque
 
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- LINHA 1: Visão Computacional (P&D) & VarinhaMAGICA -->
+  <!-- Heart Disease ML & Visão Computacional -->
   <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 15px;">
+      <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
+        <h3 align="center" style="margin-top: 0;">🫀 Previsão de Doença Cardíaca (ML)</h3>
+        <div align="center">
+          <a href="https://github.com/MariaEduardaBatt/heart-disease-ml" target="_blank">
+            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
+          </a>
+          <a href="https://www.kaggle.com/code/mariaeduardabatt/heart-disease" target="_blank">
+            <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+          </a>
+        </div>
+        <br>
+        <ul style="margin-bottom: 0; padding-left: 20px;">
+          <li><b>Tech:</b> Python / scikit-learn / Jupyter</li>
+          <li>Pipeline completo: análise exploratória, tratamento de ausentes, outliers e normalização</li>
+          <li>KNN, MLP e Árvore de Decisão com validação cruzada estratificada e Leave-One-Out</li>
+          <li><b>82,9% de acurácia</b> (KNN) contra 54,1% do baseline</li>
+        </ul>
+      </div>
+    </td>
     <td width="50%" valign="top" style="border: none; padding: 15px;">
       <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
         <h3 align="center" style="margin-top: 0;">👁️ Visão Computacional & Robótica Industrial</h3>
@@ -40,31 +68,14 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
         <br>
         <ul style="margin-bottom: 0; padding-left: 20px;">
           <li><b>Tech:</b> Python / OpenCV / ESP32-CAM / Embarcados</li>
-          <li>Sistema de percepção de um robô industrial para limpeza de evaporadores (P&amp;D · EMBRAPI)</li>
+          <li>Sistema de percepção de um robô industrial para limpeza de evaporadores (P&amp;D · EMBRAPII)</li>
           <li>Pipelines de processamento e análise de imagens em tempo real</li>
           <li>Integração de câmeras em sistemas embarcados</li>
         </ul>
       </div>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
-        <h3 align="center" style="margin-top: 0;">🪄 VarinhaMAGICA — Periférico HID</h3>
-        <div align="center">
-          <a href="https://github.com/MariaEduardaBatt/VarinhaMAGICA" target="_blank">
-            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-          </a>
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> HTML/CSS/JS / C++ (Arduino) / Proteus / CAD 3D</li>
-          <li>Dispositivo de interface humana (HID) por gestos com ESP8266 e MPU6050</li>
-          <li>Firmware para envio de comandos de movimento ao computador</li>
-          <li>Placa (PCB), soldagem SMD/THD e case modelado em 3D</li>
-        </ul>
-      </div>
-    </td>
   </tr>
-  <!-- LINHA 2: IA Damas & ResolveTi -->
+  <!-- IA Damas & VarinhaMAGICA -->
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding: 15px;">
       <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
@@ -77,12 +88,32 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
         <br>
         <ul style="margin-bottom: 0; padding-left: 20px;">
           <li><b>Tech:</b> Java / Busca Adversarial / Minimax</li>
-          <li>Implementação de algoritmos de árvore de decisão para avaliação ótima de estados</li>
-          <li>Funções heurísticas projetadas para interações complexas de tabuleiro</li>
-          <li>Análise de regras e tomada de decisão automatizada</li>
+          <li>Árvore de busca de até 10 níveis com MiniMax e nível de inteligência configurável</li>
+          <li>Heurística própria (peça = 3, dama = 7) normalizada com tanh</li>
+          <li>Interface gráfica em Swing com captura obrigatória e promoção de damas</li>
         </ul>
       </div>
     </td>
+    <td width="50%" valign="top" style="border: none; padding: 15px;">
+      <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
+        <h3 align="center" style="margin-top: 0;">🪄 VarinhaMAGICA — Reconhecimento de Gestos</h3>
+        <div align="center">
+          <a href="https://github.com/MariaEduardaBatt/VarinhaMAGICA" target="_blank">
+            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
+          </a>
+        </div>
+        <br>
+        <ul style="margin-bottom: 0; padding-left: 20px;">
+          <li><b>Tech:</b> C++ (Arduino) / Node.js / JavaScript / Proteus / CAD 3D</li>
+          <li>Classificação de gestos (corte, avanço, círculo) a partir de dados do sensor inercial MPU6050</li>
+          <li>Firmware envia janelas de aceleração/giroscópio via HTTP para o servidor</li>
+          <li>Placa (PCB), soldagem SMD/THD e case modelado em 3D</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <!-- ResolveTi & simples-editor -->
+  <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding: 15px;">
       <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
         <h3 align="center" style="margin-top: 0;">📱 Gestão de Chamados (ResolveTi)</h3>
@@ -97,26 +128,6 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
           <li>Sistema de registro e atendimento de chamados de suporte técnico</li>
           <li>Fluxo organizado para automação de operações</li>
           <li>Persistência de dados e estrutura modular</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <!-- LINHA 3: Webflix & simples-editor -->
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <div style="background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 20px; height: 300px;">
-        <h3 align="center" style="margin-top: 0;">🎬 Catálogo de Filmes (Webflix)</h3>
-        <div align="center">
-          <a href="https://github.com/MariaEduardaBatt/webflix" target="_blank">
-            <img src="https://img.shields.io/badge/VER_PROJETO-238636?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto">
-          </a>
-        </div>
-        <br>
-        <ul style="margin-bottom: 0; padding-left: 20px;">
-          <li><b>Tech:</b> HTML5 / CSS3 / JavaScript</li>
-          <li>Site de filmes com login, cadastro e páginas de catálogo</li>
-          <li>Páginas de trailers e trilhas sonoras</li>
-          <li>100% HTML, CSS e JavaScript puro</li>
         </ul>
       </div>
     </td>
@@ -140,9 +151,23 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
   </tr>
 </table>
 
+<p align="center"><sub>Outros projetos: <a href="https://github.com/MariaEduardaBatt/webflix">Webflix</a> · <a href="https://github.com/MariaEduardaBatt/Monitoramento-de-Fluxo-de-Carros-IFSULDEMINAS-UNICAMP">Monitoramento de Fluxo de Carros (IFSULDEMINAS × UNICAMP)</a> · <a href="https://github.com/MariaEduardaBatt/SiteOmega">SiteOmega</a></sub></p>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+
+### IA & Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0b1322?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visão%20Computacional-0b1322?style=for-the-badge" />
+</p>
 
 ### Principais Linguagens
 <p align="center">
@@ -157,7 +182,6 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 
 ### Ferramentas & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -177,9 +201,10 @@ Estudante do 8º período de Engenharia de Computação (IFSULDEMINAS) com atua�
 
 ## 🏆 Conquistas & Liderança
 
-- **⚡ Diretora** — Núcleo de Energia e Mobilidade Elétrica (Empresa Júnior Turing · IFSULDEMINAS)
+- **🚀 Presidente** — Empresa Júnior Turing · IFSULDEMINAS (desde 09/2026) · antes, Diretora do Núcleo de Energia e Mobilidade Elétrica
 - **🤖 Membro** — Equipe de Robótica ATON (IFSULDEMINAS), atuando em robôs de combate e competições
-- **👁️ P&D em Visão Computacional** — Robótica Industrial (EMBRAPI)
+- **👁️ P&D em Visão Computacional** — Robótica Industrial (IVIC Robotics · EMBRAPII)
+- **📡 Assistente de P&D** — IoT e Gêmeos Digitais (UNICAMP WissTech IoT)
 - **💻 Bolsista de Tecnologia e Inovação** — Desenvolvimento Full Stack (CNPq)
 - **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2026 · Tema: Gestão Pública — solução tecnológica para o CEASA de Poços de Caldas
 - **🥇 1º Lugar** — Hackathon IFSULDEMINAS 2025 · Solução com criptografia/Blockchain aplicada ao agronegócio
